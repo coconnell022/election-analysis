@@ -39,7 +39,5 @@ This code was written with the purpose of being able to be modified and used in 
 
 Another way that this script can be modified is to provide more comprehensive election findings to determine where each candidate received the greatest number of votes depending on county or other specific demographic factors. This type of analysis could help influence future elections by allowing candidates to have a better understanding of how certain areas of the state are voting, which would allow for changes in campaign strategy. 
 
-
-
-
-
+        Caroline O'Connell
+        October 11th, 2020
